@@ -6,10 +6,9 @@ git config --global user.email "@gmail.com"
 git config --list
 
 git init
-
+-----------------------------------------------------------------------------------------
 git add .
 
--------------------------------------------------------------------------------------------------------------
 git commit -m "git startup command done"
 
 git branch -M main
