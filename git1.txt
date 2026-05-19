@@ -12,7 +12,7 @@ git add .
 -------------------------------------------------------------------------------------------------------------
 git commit -m "git startup command done"
 
-git branch -m main
+git branch -M main
 
 git remote add origin https://github.com/rahulredekar/Git_setup_commands-.git
 
