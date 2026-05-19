@@ -17,7 +17,7 @@ git remote add origin https://github.com/rahulredekar/Git_setup_commands-.git
 
 first time = git push -u origin main  (after use only git push)
 
-git status
+git stage
 
 git branch
 
