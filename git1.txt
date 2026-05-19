@@ -16,3 +16,4 @@ git branch -m main
 
 git remote add origin https://github.com/rahulredekar/Git_setup_commands-.git
 
+git push origin main 
