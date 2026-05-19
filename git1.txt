@@ -19,4 +19,7 @@ first time = git push -u origin main  (after use only git push)
 
 git status
 
-also use (.gitignore)
+git branch
+
+git restore git1.txt
+git restore --staged git1.txt
